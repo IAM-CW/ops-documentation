@@ -1,6 +1,6 @@
 # Operational Documentation Portfolio
 
-A collection of operational documentation samples covering standard operating procedures, escalation frameworks, runbooks, and process templates for technical operations environments.
+A collection of operational documentation samples covering standard operating procedures, escalation frameworks, and API reference documentation for technical operations environments.
 
 ## Contents
 
@@ -8,8 +8,7 @@ A collection of operational documentation samples covering standard operating pr
 |--------|-------------|
 | `sops/` | Standard Operating Procedures for repeatable technical and operational workflows |
 | `escalation-procedures/` | Escalation frameworks with severity tiers, response timelines, and routing paths |
-| `api-docs/` | API reference documentation samples |
-| `templates/` | Reusable templates for SOPs, runbooks, and process documentation |
+| `api-docs/` | API reference documentation samples | 
 
 ## Documentation Standards
 
